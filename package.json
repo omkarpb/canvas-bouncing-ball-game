@@ -1,0 +1,31 @@
+{
+  "name": "canvas-bouncing-ball-game",
+  "version": "0.0.1",
+  "description": "A game using Canvas of HTML 5",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omkarpb/canvas-bouncing-ball-game.git"
+  },
+  "keywords": [
+    "Game",
+    "Canvas"
+  ],
+  "author": "Omkar P. B.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omkarpb/canvas-bouncing-ball-game/issues"
+  },
+  "homepage": "https://github.com/omkarpb/canvas-bouncing-ball-game#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "jit-grunt": "^0.10.0",
+    "time-grunt": "^1.4.0"
+  }
+}
